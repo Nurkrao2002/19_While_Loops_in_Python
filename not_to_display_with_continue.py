@@ -1,9 +1,9 @@
-# n=0
-# while n<10:
-#     n+=1
-#     if n==9:
-#         continue
-#     print(n)
+n=0
+while n<10:
+    n+=1
+    if n==9:
+        continue
+    print(n)
 
 
 """ 2nd type"""
@@ -36,7 +36,9 @@ while n<10:
     print(n)
 """
 
-# if (11>2):
-#     pass
-# else:
-#     print('False')
+if (11>2):
+    pass
+else:
+    print('False')
+    
+    
