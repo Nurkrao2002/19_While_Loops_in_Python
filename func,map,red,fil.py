@@ -1,4 +1,4 @@
-# a=["1","2","3","4","5"]
+a=["1","2","3","4","5"]
 for i in range(len(a)):
     a[i]=int(a[i])
     print(a[i])
@@ -36,3 +36,4 @@ from functools import reduce
 e=[5,10,15,20,25]
 n=reduce(lambda x,y: x+y,e)
 print(n)
+
